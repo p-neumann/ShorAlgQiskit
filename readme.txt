@@ -16,7 +16,7 @@ If, when running this project, the Qiskit version installed is a later version, 
 not work if some functions change. If it does not work, please uninstall that later Qiskit version through
 pip uninstall qiskit
 And then install the Qiskit version used in this project, through:
-pip install qiskit==0.7.0
+pip install qiskit==0.7.0 
 
 
 This directory contains:
