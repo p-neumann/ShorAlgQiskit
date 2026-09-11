@@ -1,4 +1,4 @@
-TU Delft - AP3421 Project 18/19. Authors: Rui Maia (4942728) and Tiago Leao (4937589)
+TU Delft - AP3421 Project 18/19. Authors: Rui Maia (4942728) and Tiago Leao (4937589) 
 
 In this directory there are the Python files using the SDK Qiskit to implement Shor's Algorithm.
 
